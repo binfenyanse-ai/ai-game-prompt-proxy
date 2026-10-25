@@ -1,4 +1,7 @@
 # 缤纷颜色 AI 游戏人设改写代理（ai-game-prompt-proxy）
+界面截图：
+<img width="995" height="1170" alt="ai-game-prompt-proxy" src="https://github.com/user-attachments/assets/75c3c0b8-79fc-4efc-a6fe-05ce70b30c14" />
+
 
 一个轻量级、单文件的本地 HTTP 代理工具：拦截游戏发往大模型的 OpenAI 兼容请求，按你设定的规则**替换 system 报文里的人设区间**，再把报文转发给本地 Ollama 或外援 API。自带网页管理面板（WebUI），无需写代码即可配置规则、切换上游、管理局域网设备。
 
